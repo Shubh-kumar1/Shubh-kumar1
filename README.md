@@ -26,6 +26,8 @@ I specialize in the development of low-latency backend architectures and the int
 
 ---
 
+
+
 ### 💻 Core Technical Ecosystem
 *Engineering high-performance, distributed systems using a modern, cloud-native stack.*
 
@@ -36,6 +38,7 @@ I specialize in the development of low-latency backend architectures and the int
 ![Docker](https://img.shields.io/badge/Docker_Engine-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
+---
 ---
 ---
 
