@@ -24,15 +24,19 @@ I specialize in the development of low-latency backend architectures and the int
 
 ### 💻 Technical Ecosystem
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java_JDK21-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_3.12-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI_Framework-005571?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Redis_Cache-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Engine-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
-</div>
+---
 
+### 💻 Core Technical Ecosystem
+*Engineering high-performance, distributed systems using a modern, cloud-native stack.*
+
+![Java](https://img.shields.io/badge/Java_JDK21-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.12-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI_Framework-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cache-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Engine-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+---
 ---
 
 ### 📊 Real-Time System Metrics
