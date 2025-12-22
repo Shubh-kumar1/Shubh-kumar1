@@ -56,9 +56,8 @@ I specialize in the development of low-latency backend architectures and the int
 
 ### 🐍 The Build Stream
 <div align="center">
-  <img src="https://github-github-snake-dark.vercel.app/api/snake?github_user=Shubh-kumar1&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1f4%2C%234b91f1%2C%233c7dd9&color_snake=%233c7dd9" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Shubh-kumar1/Shubh-kumar1/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
-
 ---
 
 <div align="center">
