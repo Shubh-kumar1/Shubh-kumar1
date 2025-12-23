@@ -16,7 +16,7 @@
 I specialize in the development of low-latency backend architectures and the integration of machine learning into scalable production environments. 
 
 - ⚡ **Performance Engineering:** Architecting real-time, stateful backends using **FastAPI**, **WebSockets**, and **Redis** for sub-millisecond responsiveness.
-- 🛰️ **System Innovation:** Lead Engineer for **Blue Signal**—a hybrid pipeline merging high-dimensional AI/ML models with decentralized blockchain protocols.
+- 🛰️ **System Innovation:** Lead Engineer for **Cricket Connect**—a hybrid pipeline merging high-dimensional AI/ML models with decentralized blockchain protocols.
 - 🧠 **Logic Optimization:** Executing a high-intensity **160-day algorithmic sprint** to refine runtime complexity and mental debugging speed.
 - 📊 **Quant & FinTech:** Engineering automated market analysis tools and exploring high-frequency trading (HFT) system architectures.
 
