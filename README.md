@@ -57,12 +57,3 @@ I specialize in the development of low-latency backend architectures and the int
 
 ---
 
-### 🐍 The Build Stream
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shubh-kumar1/Shubh-kumar1/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubh-kumar1&label=SYSTEM%20TRAFFIC&color=0e75b6&style=flat-square" alt="Views" />
-</div>
