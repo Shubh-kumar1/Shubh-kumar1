@@ -4,7 +4,6 @@
   <p><i>Building high-concurrency systems and intelligent pipelines for the 2027 frontier.</i></p>
 
   <p>
-    <a href="https://x.com/Sshubh_01"><img src="https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/shubham-kumar-87bb8b357/"><img src="https://img.shields.io/badge/Network_Referral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:shubhamraj9493@gmail.com"><img src="https://img.shields.io/badge/Google_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
